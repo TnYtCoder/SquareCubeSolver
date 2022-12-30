@@ -17,7 +17,7 @@ But if you find the square root of no. like 3 so it will show as 1.732 so you wi
 
 In easy if 0 comes after (.) So it means the number which comes before . Is the ans but if not so your ans is, the all digits 😊
 
-#Installation In Termux
+# Installation In Termux
 
 ```
 pkg install git -y
